@@ -1,8 +1,8 @@
 <p align="center">
-   <img src="https://github.com/AishaEvering/MachineLearningLibraryIntro/blob/main/header.png" alt="Face Verfication" width="600" height="300">
+   <img src="https://github.com/AishaEvering/MachineLearningLibraryIntro/blob/main/header.png" alt="101" width="600" height="300">
 </p>
 
-# Machine Learning Library Introduction
+# Machine Learning Introduction
 
 Hey, got to start somewhere.
 
@@ -16,7 +16,7 @@ Hey, got to start somewhere.
 
 ## 📃Description
 
-Excersises I used to get a foundation to learn Machine Learning.
+Exercises I used to get a foundation to learn Machine Learning.
 
 ## 🏫 What Did I Learn
 
@@ -24,7 +24,7 @@ Excersises I used to get a foundation to learn Machine Learning.
 
 ## 🔑 Key Takeaways
 
-* None, I was just exicted.
+* None, I was just excited.
 
 
 ### 😤 Where I Got Stuck
