@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/AishaEvering/FaceVerification/blob/main/FaceVerification.png" alt="Face Verfication" width="600" height="300">
+   <img src="https://github.com/AishaEvering/MachineLearningLibraryIntro/blob/main/header.png" alt="Face Verfication" width="600" height="300">
 </p>
 
 # Machine Learning Library Introduction
